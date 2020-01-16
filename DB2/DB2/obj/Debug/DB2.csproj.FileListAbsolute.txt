@@ -1,0 +1,22 @@
+S:\18211\Шуклин\DB2\DB2\bin\Debug\DB2.exe.config
+S:\18211\Шуклин\DB2\DB2\bin\Debug\БД.mdb
+S:\18211\Шуклин\DB2\DB2\bin\Debug\DB2.exe
+S:\18211\Шуклин\DB2\DB2\bin\Debug\DB2.pdb
+S:\18211\Шуклин\DB2\DB2\obj\Debug\DB2.Form1.resources
+S:\18211\Шуклин\DB2\DB2\obj\Debug\DB2.Properties.Resources.resources
+S:\18211\Шуклин\DB2\DB2\obj\Debug\DB2.csproj.GenerateResource.Cache
+S:\18211\Шуклин\DB2\DB2\obj\Debug\DB2.exe
+S:\18211\Шуклин\DB2\DB2\obj\Debug\DB2.pdb
+S:\18211\Шуклин\DB2\DB2\obj\Debug\DB2.Form2.resources
+S:\18211\Шуклин\DB2\DB2\obj\Debug\DB2.csprojResolveAssemblyReference.cache
+G:\Проектирование ИС\Задания\DB2\DB2\bin\Debug\DB2.exe.config
+G:\Проектирование ИС\Задания\DB2\DB2\obj\Debug\DB2.exe
+G:\Проектирование ИС\Задания\DB2\DB2\obj\Debug\DB2.pdb
+G:\Проектирование ИС\Задания\DB2\DB2\bin\Debug\БД.mdb
+G:\Проектирование ИС\Задания\DB2\DB2\bin\Debug\DB2.exe
+G:\Проектирование ИС\Задания\DB2\DB2\bin\Debug\DB2.pdb
+G:\Проектирование ИС\Задания\DB2\DB2\obj\Debug\DB2.csprojResolveAssemblyReference.cache
+G:\Проектирование ИС\Задания\DB2\DB2\obj\Debug\DB2.Form1.resources
+G:\Проектирование ИС\Задания\DB2\DB2\obj\Debug\DB2.Form2.resources
+G:\Проектирование ИС\Задания\DB2\DB2\obj\Debug\DB2.Properties.Resources.resources
+G:\Проектирование ИС\Задания\DB2\DB2\obj\Debug\DB2.csproj.GenerateResource.Cache
